@@ -9,3 +9,4 @@
 6. [Spring Boot API Project Seed ](https://github.com/lihengming/spring-boot-api-project-seed)
 7.添加新的功能 git pull origin master
 111
+8.在A分支新添加的功能
